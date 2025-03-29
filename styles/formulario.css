@@ -1,0 +1,19 @@
+.imgformulario{
+   margin: 100px;
+   padding-left: 400px;
+
+}
+a{
+color: var(--lst-color);
+}
+h1{
+    color: var(--cointainer-color);
+}
+.discos{
+    color: var(--cointainer-color);
+    padding-left: 600px;
+    padding-top: 150px ;
+}
+label{
+   container: (--cointainer-color);
+}

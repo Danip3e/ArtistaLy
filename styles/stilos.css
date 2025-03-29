@@ -1,0 +1,38 @@
+
+
+html{
+    --bg-color:#bb111f;
+    --cointainer-color:#f0e2cc;
+    --hg-color:#f2aeae;
+    --lst-color:#ffb647;
+}
+
+body{
+    background-color: var(--bg-color);
+    font-family:"Rubik", sans-serif;
+    align-items: center;
+}
+#Lykke{
+    font-size: 70px;
+    color: var(--cointainer-color);
+    text-align: center;
+    font-weight: 600;
+    font-family: "Boldonse",sans-serif;
+}
+p{
+    color: #f2aeae;
+
+}
+.parrafoinicial{
+    text-align: left;
+    font-family: "Mukta Mahee", sans-serif;
+    font-weight: 300;
+}
+.imagen1{
+    border-color: 10px,var(--hg-color);
+    padding-left: 400px;
+}
+a{
+    color: var(--lst-color);
+
+}
